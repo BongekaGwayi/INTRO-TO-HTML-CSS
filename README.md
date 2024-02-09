@@ -95,3 +95,28 @@ Linking to Email Addresses (mailto:): The mailto: protocol allows creating links
 
 Base Element: The <base> element allows setting a base URL for all relative URLs within a document, simplifying the management of links.
 Link Relationships (rel Attribute): The rel attribute within the <a> tag can define the relationship between the current document and the linked resource (e.g., stylesheet, icon).
+
+5.HTML Working with Graphics and Images
+
+The methods and procedures for adding graphics and images to HTML texts are covered in HTML Working with Graphics and Images. To display images, it entails comprehending the <img> tag and its properties src, alt, height, and width. It also includes methods for creating responsive images with the srcset and sizes properties, and how to style and position images inside HTML texts using CSS. Talks about embedding graphics with <svg> tags for vector pictures and <canvas> elements for dynamic graphics may also be covered. In general, it entails using HTML and other technologies to efficiently include pictures and graphics into webpages.
+
+6.HTML Working with Media
+
+The course HTML Working with Media focuses on including multimedia components like audio and video in HTML documents. This involves knowing how to identify source files, manage playback, and provide fallback content using the audio and video tags and their corresponding properties. This subject matter also includes methods for integrating media, such as utilizing external websites like Vimeo or YouTube. It might also go over utilizing CSS to style media elements, accessibility features like transcripts and captions, and responsive design for media. The overall goal of the topic is to provide developers with the tools they need to efficiently use HTML and related technologies to integrate different kinds of media content into web pages.
+
+7.HTML Content Identification
+
+The process of giving each element in an HTML document a unique identification is known as HTML Content Identification. Developers can target specific material for style, scripting, or other alterations with ease because to this approach. Identifiers are usually assigned with the use of the "id" attribute in HTML tags, which makes precise CSS or JavaScript reference possible. Accurate content identification contributes to improved maintainability of codebases, better navigation, and increased accessibility. In web development, it's a must-have technique for effectively organizing and modifying material on webpages.
+
+8.HTML Integration
+
+HTML Integration refers to the process of combining HTML with other web technologies and platforms to enhance functionality and interactivity. This includes integrating HTML with CSS for styling, JavaScript for dynamic behavior, and various server-side technologies such as PHP, Python, or ASP.NET for server-side processing. HTML integration also involves incorporating third-party APIs, frameworks, and libraries to extend the capabilities of web applications. It enables developers to create rich, interactive, and responsive web experiences by leveraging the strengths of different technologies in tandem with HTML.
+
+9.HTML Working with forms and Interactive Elements
+
+HTML Working with Forms and Interactive components: Using <form>, <input>, <button>, and <select>, among other HTML components, allows you to develop interactive and user-friendly web forms. Input fields, the form's structure, and interactive components like radio buttons, checkboxes, and drop-down menus are all defined during this procedure. With characteristics like "action", "method", and "name", developers can personalize the look and feel of the form, and with features like submission processing and validation, they can improve functionality. In an effort to enhance accessibility and user experience, HTML5 adds additional input types and characteristics including "placeholder" and "required". Developers may construct functional and interesting online forms for user input collection and web application interaction by using
+HTML Working with Forms and Interactive Elements.
+
+10.Organizing Tabular Information in HTML
+
+Using the <table>, <tr>, <th>, and <td> elements, data is organized into tables for tabular information in HTML. For improved readability and accessibility, developers utilize these components to construct rows (<tr>), columns (<th> for headers, <td> for data cells), and headers (<thead>, <th>). For even more structure and semantic clarity, you can utilize other elements like <caption>, <tfoot>, and <tbody>. Style tables can be made more aesthetically pleasing and more user-friendly by applying CSS. When tabular data is arranged properly in HTML, it is presented logically and efficiently, which facilitates the interpretation and navigation of complicated datasets by users and assistive technology.
